@@ -1,0 +1,10 @@
+import './welcome-carousel.js'
+import './explorer-compare.js';
+import './video-player.js';
+import './gallery.js';
+import './tickets-form-calculator.js';
+import './order-form.js';
+import './order-form-validation.js';
+import './map.js';
+import './scroll-to-top.js';
+import './console.js';
